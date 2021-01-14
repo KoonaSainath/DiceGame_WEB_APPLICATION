@@ -1,0 +1,25 @@
+body{
+    background-color: #00af91;
+    font-family: 'Hachi Maru Pop', cursive;
+    text-align: center;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 7rem;
+}
+h2{
+    font-size: 3rem;
+}
+.player1, .player2{
+    display: inline-block;
+    font-size: 2rem;
+    margin: 0 5rem 5rem 5rem;
+}
+.players{
+    background-color: white;
+    display: inline-block;
+    margin: 2rem;
+}
+p{
+    padding: 2rem;
+}
